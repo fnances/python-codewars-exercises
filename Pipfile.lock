@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "56d2ddf6a1d52bc3c9120f7daf2c885e2493ab5582d4826b00604ab538bd97e2"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "codewars-test": {
+            "git": "https://github.com/uRTLy/python-test-framework.git",
+            "ref": "3090a67614617536e275d9bfaba04ff31841eed4"
+        },
+        "python-test-framework": {
+            "git": "https://github.com/uRTLy/python-test-framework.git",
+            "ref": "3090a67614617536e275d9bfaba04ff31841eed4"
+        }
+    },
+    "develop": {}
+}
